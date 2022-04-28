@@ -1,0 +1,22 @@
+{
+  "name": "monogo",
+  "version": "1.0.0",
+  "description": "dev.js Summit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamiljurek/monogo.git"
+  },
+  "author": "Kamil Jurek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamiljurek/monogo/issues"
+  },
+  "homepage": "https://github.com/kamiljurek/monogo#readme",
+  "devDependencies": {
+    "axios": "^0.27.2"
+  }
+}
