@@ -26,7 +26,6 @@ const axios = require('axios').default;
 
 	let num = Math.round(min * max);
 	let numStr = num.toString().split('')
-	console.log(numStr);
 
 	let resArr = []
 	for (let i = 0; i <= numStr.length - 2 ; i += 2) {
